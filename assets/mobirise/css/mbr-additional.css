@@ -2261,10 +2261,11 @@ body {
 }
 .cid-reu5ToYQKs {
   background: #ffffff;
+  padding-top: 45px;
+  padding-bottom: 45px;
 }
 .cid-reu5ToYQKs .video-block {
   margin: auto;
-  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-reu5ToYQKs .video-block {
